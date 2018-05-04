@@ -9,6 +9,7 @@ def countdown(integer)
 
 end
 
+countdown(5)
 def countdown_with_sleep(integer)
    while integer>0 
   integer-=1 
